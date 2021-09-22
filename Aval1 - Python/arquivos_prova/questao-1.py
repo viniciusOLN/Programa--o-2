@@ -1,4 +1,4 @@
-#Arthur Oliveira, Italo Meireles, Vinicius Oliveira
+#Vinicius Oliveira do Nascimento
 
 #retorna uma lista de strings formatadas somente com numeros
 def tranformarInt(novaLista):
