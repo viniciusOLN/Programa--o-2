@@ -34,14 +34,6 @@ def main():
 
        c1 = Chocolates(chocolates[0], chocolates[1])
        result.append(c1.distribuicao(quant_caixas, capacidade_caixa))
-    
-
-        
-        
-
-      
-
-
 
 if __name__ == '__main__':
     main()
